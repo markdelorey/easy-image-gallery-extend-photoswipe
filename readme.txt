@@ -1,0 +1,1 @@
+=== Easy Image Gallery Extend for Photoswipe http://photoswipe.com/ by Dmitry Semenov ===
